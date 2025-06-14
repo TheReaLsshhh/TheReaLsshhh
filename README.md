@@ -14,10 +14,9 @@ Feel free to connect with me and check out my projects!
 
 ## 🌐 Socials
 
-<!-- Add your actual social links here -->
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://web.facebook.com/itstypicallylloyd)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![RaketPH](https://img.shields.io/badge/RaketPH-FF5F1F?style=flat-square&logo=&logoColor=white)](https://www.raket.ph/zyvidplayz)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zyvidplayz@gmail.com)
 
 ---
 
@@ -39,5 +38,4 @@ Feel free to connect with me and check out my projects!
 
 ## 📈 GitHub Stats
 
-<!-- You can use GitHub Readme Stats or similar services -->
 ![TheReaLsshhh's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheReaLsshhh&show_icons=true&theme=tokyonight)
