@@ -1,12 +1,31 @@
-## 👋 Hi, I'm Daryl Lloyd Tano!
+<p align="center">
+  <img src="![image1](image1)" alt="Banner" />
+</p>
 
-I'm a passionate software developer from Bayawan City, Negros Oriental, Philippines 🇵🇭.  
-My expertise lies in building robust web applications using **Python** and the **Django framework**.  
-I love turning ideas into scalable solutions and continuously learning new technologies.
+<h2 align="center">
+  Exploring
+</h2>
 
 ---
 
-### 🛠️ Tech Stack
+## 🧑‍💻 About Me
+
+Hi, I am **Daryl Lloyd Tano**, a backend developer specializing in Python Django from Bayawan City, Negros Oriental, Philippines.  
+I’m passionate about building scalable web applications and always eager to learn new technologies.  
+Feel free to connect with me and check out my projects!
+
+---
+
+## 🌐 Socials
+
+<!-- Add your actual social links here -->
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+---
+
+## 🛠 Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -22,10 +41,7 @@ I love turning ideas into scalable solutions and continuously learning new techn
 
 ---
 
-🌱 Always learning.  
-💬 Ask me about Python, Django, or web development in general!  
-📫 Reach me at: [Your Email/LinkedIn/Website if you want to add here]
+## 📈 GitHub Stats
 
-<!--
-Customize further as you wish!
--->
+<!-- You can use GitHub Readme Stats or similar services -->
+![TheReaLsshhh's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheReaLsshhh&show_icons=true&theme=tokyonight)
