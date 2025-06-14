@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="![image1](image1)" alt="Banner" />
-</p>
-
 <h2 align="center">
   Exploring
 </h2>
