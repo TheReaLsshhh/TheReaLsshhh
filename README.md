@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=5B6FE2&center=true&vCenter=true&width=450&lines=Exploring+the+world;Exploring+the+wonders;Exploring+the+code;Exploring" alt="Animated Heading" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=5B6FE2&center=true&vCenter=true&width=450&lines=Exploring+the+world;Exploring+the+wonders.;Exploring+the+code.;Exploring+the+world." alt="Animated Heading" />
 </h2>
 
 ---
