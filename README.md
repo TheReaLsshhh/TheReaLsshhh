@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=5B6FE2&center=true&vCenter=true&width=450&lines=Exploring+the+world.;Exploring+the+wonders.;Exploring+the+code.;" alt="Animated Heading" />
 </h2>
 
----
-
 ## 🧑‍💻 About Me
 
 Hi, I am **Daryl Lloyd Tano**, a backend developer specializing in Python Django from Bayawan City, Negros Oriental, Philippines.  
