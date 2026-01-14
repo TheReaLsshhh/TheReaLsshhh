@@ -1,12 +1,14 @@
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=5B6FE2&center=true&vCenter=true&width=450&lines=Exploring+the+world.;Exploring+the+wonders.;Exploring+the+code.;" alt="Animated Heading" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=5B6FE2&center=true&vCenter=true&width=650&lines=Exploring+the+world.;Building+scalable+web+apps.;Learning+every+day." alt="typing" />
 </h2>
 
 ## 🧑‍💻 About Me
 
-Hi, I am **Daryl Lloyd Tano**, a backend developer specializing in Python Django from Bayawan City, Negros Oriental, Philippines.  
-I’m passionate about building scalable web applications and always eager to learn new technologies.  
-Feel free to connect with me and check out my projects!
+Hi, I am **Daryl Lloyd Tano** — a backend developer specializing in Python and Django from Bayawan City, Negros Oriental, Philippines. I build scalable web applications, enjoy solving backend challenges, and I’m always learning new technologies.
+
+- 🔭 I’m currently working on backend systems and API design.
+- 🌱 I’m learning more about observability, testing, and deployment best practices.
+- 💬 Ask me about Python, Django, SQL, and building reliable server-side apps.
 
 ---
 
@@ -35,6 +37,26 @@ Feel free to connect with me and check out my projects!
 
 ---
 
+## 📂 Projects
+
+Below are some of my projects — feel free to explore the repositories to see code samples and demos.
+
+- (Pinned repositories can be added here)
+
+---
+
 ## 📈 GitHub Stats
 
 ![TheReaLsshhh's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheReaLsshhh&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheReaLsshhh&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contact
+
+If you'd like to collaborate or have questions, reach out via email: zyvidplayz@gmail.com
+
+---
+
+Thanks for visiting — I appreciate you stopping by! (— Daryl)
