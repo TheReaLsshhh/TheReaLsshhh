@@ -4,7 +4,7 @@
 
 ## 🧑‍💻 About Me
 
-Hi, I am **Daryl Lloyd Tano** — a frontend & backend developer specializing in Python and Django from Bayawan City, Negros Oriental, Philippines. I build scalable web applications, enjoy solving backend challenges, and I’m always learning new technologies.
+Hi, I am **Daryl Lloyd Tano** — a frontend & backend developer specializing in Python Django Framework, from Bayawan City, Negros Oriental, Philippines. I build scalable web applications, enjoy solving backend challenges, and I’m always learning new technologies.
 
 - 🔭 I’m currently working on backend systems and API design.
 - 🌱 I’m learning more about observability, testing, and deployment best practices.
