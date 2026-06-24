@@ -55,7 +55,7 @@ Below are some of my projects — feel free to explore the repositories to see c
 
 ## 📫 Contact
 
-If you'd like to collaborate or have questions, reach out via email: zyvidplayz@gmail.com
+If you'd like to collaborate or have questions, reach out via email: ccbadmin@ccbacad.dpdns.org
 
 ---
 
